@@ -38,7 +38,7 @@ movements for example, you can configure that when a pitch of A2 is played the
 mouse pointer moves up etc.
 
 
-```
+```python
 from mouse import LineIn, Mouse
 
 
@@ -64,7 +64,7 @@ if __name__ == "__main__":
 you can configure `Mouse.MOUSE_X` and `Mouse.MOUSE_Y` to update the speed of
 the mouse.
 
-```
+```python
 from mouse import LineIn, Mouse
 
 
