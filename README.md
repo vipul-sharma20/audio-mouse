@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
 ### Configuring X/Y mouse speed
 
-you can configure `Mouse.MOUSE_X` and `Mouse.MOUSE_Y` to update the speed of
+You can configure `Mouse.MOUSE_X` and `Mouse.MOUSE_Y` to update the speed of
 the mouse.
 
 ```python
