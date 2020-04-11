@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="audio-mouse",
-    version="1.0.1",
+    version="1.0.2",
     author="Vipul Sharma",
     author_email="vipul.sharma20@gmail.com",
     description="Control mouse with audio input",
