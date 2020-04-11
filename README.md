@@ -31,7 +31,7 @@ if __name__ == "__main__":
     main()
 ```
 
-## Configuring notes/pitches
+### Configuring notes/pitches
 
 You can configure the notes you want to act as trigger for specific mouse
 movements for example, you can configure that when a pitch of A2 is played the
