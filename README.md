@@ -85,7 +85,9 @@ if __name__ == "__main__":
 
 ## In action
 
-Checkout this 30 seconds video for a demo:
+Checkout the 30 seconds video linked below for a demo. I've played few of the
+notes from the major pentatonic scale on 5th fret of a guitar and each note is
+a mouse event.
 
 [https://imgur.com/a/ECJwEFy](https://imgur.com/a/ECJwEFy)
 
