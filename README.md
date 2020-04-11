@@ -7,6 +7,10 @@ played on it to simulate mouse movements. But you can always use your voice and
 control the mouse movements as long as you can hit those pitches which are
 configured to trigger the mouse events
 
+## Install
+
+`pip install audio-mouse`
+
 ## Examples
 
 ### Basic example
